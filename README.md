@@ -8,7 +8,6 @@ The system integrates complex functionalities such as MIMO precoding, OFDM modul
 
 ## System Model
 
-![Simulation Model](https://github.com/iamsip/NOMA5G_MOBILITY/blob/main/5GwithPA.jpg)
 ![Simulation Model](https://github.com/iamsip/NOMA5G_MOBILITY/blob/main/mobilitySimulation3-thin.png)
 
 
