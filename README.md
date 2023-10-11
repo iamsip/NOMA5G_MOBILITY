@@ -9,7 +9,7 @@ The system integrates complex functionalities such as MIMO precoding, OFDM modul
 
 ## System Model
 
-![Simulation Model](/path/to/simulation/model/image "Simulation Model")
+![Simulation Model](https://github.com/iamsip/NOMA5G_MOBILITY/blob/main/5GwithPA.jpg)
 
 The system model, as shown in the figure above, demonstrates the flow of data from transmission to reception. At the core of the transmission process is the NOMA multiplexer, which handles data according to PA parameters. The transmitted NOMA signal undergoes MIMO precoding and OFDM modulation before it is sent to the receivers.
 
