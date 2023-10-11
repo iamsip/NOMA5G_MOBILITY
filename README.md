@@ -1,5 +1,4 @@
-# NOMA5G_MOBILITY
-# 5G Multi-layer NOMA Transmission Simulation System
+# 5G Multi-layer NOMA Transmission Simulation System for Mobile user
 
 ## Introduction
 
