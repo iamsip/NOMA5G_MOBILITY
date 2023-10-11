@@ -17,10 +17,7 @@ The system model, as shown in the figure above, demonstrates the flow of data fr
 The simulation system also factors in mobility analysis for varying transmission environments, calculating 2D and 3D distances between the base station (BS) and the user. This analysis further extends to path loss calculation, reliant on the derived distances, channel frequency, and the specific transmission environment, be it urban or rural.
 
 ## Power Allocation and Performance Optimization
-
-In a typical N-NOMA system, power allocation is influenced by the channel state information (CSI) of each receiver. However, given the non-linear performance of NOMA across different layers, CSI often falls short as a comprehensive metric, especially for multi-layer NOMA. 
-
-To counteract this, our system employs bit error rate (BER) feedback from receivers, allowing the transmitter to adjust PA in an iterative manner across layers for future transmissions. This approach aims to enhance system throughput, meet BER prerequisites, and maintain dependable NOMA connections, even under unstable channel conditions.
+The system employs bit error rate (BER) feedback from receivers, allowing the transmitter to adjust PA in an iterative manner across layers for future transmissions. This approach aims to enhance system throughput, meet BER prerequisites, and maintain dependable NOMA connections, even under unstable channel conditions.
 
 ## Goals
 
